@@ -1,0 +1,151 @@
+Student_ID,CGPA,10th_Percentage,12th_Percentage,Skills,Internship,Mock_Score,Placed,Salary_LPA
+S001,8.7,88.5,85.2,Python,Yes,82,Yes,7.8
+S002,6.4,72.3,68.1,Excel,No,45,No,0
+S003,9.1,92.0,90.5,Machine Learning,Yes,91,Yes,12.5
+S004,7.5,78.4,74.3,SQL,Yes,68,Yes,5.6
+S005,6.9,65.2,62.8,Java,No,52,No,0
+S006,8.2,84.1,81.7,Python,Yes,78,Yes,7.2
+S007,7.8,80.3,77.6,SQL,Yes,72,Yes,5.9
+S008,6.1,58.9,55.4,Excel,No,38,No,0
+S009,9.3,94.2,92.1,Machine Learning,Yes,95,Yes,13.8
+S010,7.2,74.5,71.2,Java,Yes,61,Yes,5.1
+S011,6.7,69.8,66.3,SQL,No,48,No,0
+S012,8.5,87.3,83.9,Python,Yes,85,Yes,8.1
+S013,7.1,73.6,70.4,R,No,55,No,0
+S014,8.9,90.1,88.4,Machine Learning,Yes,89,Yes,11.2
+S015,6.3,61.4,58.7,Excel,No,41,No,0
+S016,7.6,79.2,76.8,Python,Yes,74,Yes,6.5
+S017,8.3,85.6,82.3,SQL,Yes,80,Yes,6.2
+S018,6.8,67.5,64.9,Java,No,50,No,0
+S019,9.0,91.8,89.3,Machine Learning,Yes,93,Yes,12.9
+S020,7.4,76.9,73.5,Python,No,65,Yes,5.8
+S021,6.5,63.2,60.1,Excel,No,43,No,0
+S022,8.0,82.7,79.4,SQL,Yes,76,Yes,5.7
+S023,7.9,81.5,78.1,Java,Yes,70,Yes,5.3
+S024,6.2,59.8,57.3,R,No,36,No,0
+S025,8.6,88.9,86.1,Python,Yes,83,Yes,7.6
+S026,7.3,75.4,72.6,SQL,Yes,66,Yes,5.4
+S027,6.6,66.1,63.4,Excel,No,46,No,0
+S028,9.2,93.5,91.4,Machine Learning,Yes,94,Yes,13.2
+S029,7.7,80.8,77.2,Java,Yes,69,Yes,5.2
+S030,6.4,62.5,59.8,SQL,No,44,No,0
+S031,8.4,86.2,83.5,Python,Yes,81,Yes,7.4
+S032,7.0,72.1,69.7,R,No,53,No,0
+S033,8.8,89.7,87.3,Machine Learning,Yes,90,Yes,11.8
+S034,6.9,68.4,65.6,Java,No,49,Yes,4.2
+S035,7.5,78.0,74.8,SQL,Yes,71,Yes,5.5
+S036,8.1,83.4,80.9,Python,Yes,79,Yes,7.0
+S037,6.3,60.7,58.1,Excel,No,40,No,0
+S038,9.4,95.1,93.2,Machine Learning,Yes,96,Yes,14.1
+S039,7.2,74.8,71.9,Java,Yes,62,Yes,5.0
+S040,6.7,67.2,64.5,SQL,No,47,No,0
+S041,8.7,88.1,85.8,Python,Yes,84,Yes,7.9
+S042,7.8,81.2,77.9,SQL,Yes,73,Yes,6.0
+S043,6.1,57.6,55.0,R,No,35,No,0
+S044,8.5,87.6,84.3,Machine Learning,Yes,87,Yes,10.5
+S045,7.4,77.3,73.9,Java,Yes,64,Yes,5.1
+S046,6.5,64.1,61.5,Excel,No,42,No,0
+S047,8.2,84.8,82.0,Python,Yes,77,Yes,7.1
+S048,7.1,73.2,70.1,SQL,No,58,No,0
+S049,9.1,92.7,90.9,Machine Learning,Yes,92,Yes,13.0
+S050,6.8,68.9,66.2,Java,No,51,No,0
+S051,7.6,79.8,76.4,Python,Yes,75,Yes,6.6
+S052,8.3,85.9,82.6,SQL,Yes,81,Yes,6.3
+S053,6.4,62.9,60.3,Excel,No,39,No,0
+S054,8.9,90.4,88.7,Machine Learning,Yes,91,Yes,12.1
+S055,7.3,75.7,72.3,Java,Yes,63,Yes,5.0
+S056,6.6,65.8,63.1,R,No,45,No,0
+S057,8.6,88.6,86.4,Python,Yes,86,Yes,7.7
+S058,7.9,82.0,78.4,SQL,Yes,74,Yes,6.1
+S059,6.2,60.3,57.9,Excel,No,37,No,0
+S060,9.0,92.2,89.6,Machine Learning,Yes,94,Yes,13.5
+S061,7.5,78.7,75.1,Java,Yes,67,Yes,5.2
+S062,6.9,69.1,66.7,SQL,No,48,Yes,4.0
+S063,8.4,86.5,83.8,Python,Yes,82,Yes,7.5
+S064,7.0,71.8,69.4,R,No,54,No,0
+S065,8.8,90.0,87.6,Machine Learning,Yes,89,Yes,11.5
+S066,6.5,63.7,61.2,Java,No,43,No,0
+S067,7.7,80.5,77.5,SQL,Yes,72,Yes,5.8
+S068,8.1,83.1,80.6,Python,Yes,78,Yes,7.0
+S069,6.3,61.0,58.5,Excel,No,40,No,0
+S070,9.3,94.8,92.7,Machine Learning,Yes,97,Yes,14.4
+S071,7.2,75.0,71.6,Java,Yes,61,Yes,5.0
+S072,6.7,66.9,64.2,SQL,No,46,No,0
+S073,8.5,88.0,85.5,Python,Yes,83,Yes,7.7
+S074,7.8,81.9,78.7,SQL,Yes,70,Yes,5.7
+S075,6.1,58.3,56.1,R,No,34,No,0
+S076,8.7,89.4,87.0,Machine Learning,Yes,88,Yes,11.0
+S077,7.4,76.6,73.2,Java,Yes,65,Yes,5.1
+S078,6.5,64.5,62.0,Excel,No,42,No,0
+S079,8.2,85.2,82.8,Python,Yes,80,Yes,7.3
+S080,7.1,73.9,70.8,SQL,No,57,No,0
+S081,9.2,93.8,91.7,Machine Learning,Yes,95,Yes,13.7
+S082,6.8,68.6,65.9,Java,No,50,No,0
+S083,7.6,80.1,76.7,Python,Yes,76,Yes,6.7
+S084,8.3,85.3,83.0,SQL,Yes,79,Yes,6.1
+S085,6.4,62.2,59.5,Excel,No,38,No,0
+S086,8.9,91.1,89.0,Machine Learning,Yes,91,Yes,12.4
+S087,7.3,75.1,71.8,Java,Yes,62,Yes,5.0
+S088,6.6,65.4,62.7,R,No,44,No,0
+S089,8.6,88.3,86.7,Python,Yes,85,Yes,7.8
+S090,7.9,82.4,78.9,SQL,Yes,73,Yes,6.0
+S091,6.2,59.6,57.0,Excel,No,36,No,0
+S092,9.0,91.5,90.2,Machine Learning,Yes,93,Yes,13.3
+S093,7.5,79.4,75.8,Java,Yes,68,Yes,5.3
+S094,6.9,69.7,67.0,SQL,No,49,Yes,3.9
+S095,8.4,86.8,84.1,Python,Yes,84,Yes,7.6
+S096,7.0,72.6,70.0,R,No,53,No,0
+S097,8.8,90.7,88.2,Machine Learning,Yes,90,Yes,12.0
+S098,6.5,64.9,62.4,Java,No,44,No,0
+S099,7.7,80.9,77.3,SQL,Yes,71,Yes,5.6
+S100,8.1,83.7,81.1,Python,Yes,79,Yes,7.1
+S101,6.3,61.8,59.2,Excel,No,39,No,0
+S102,9.4,95.5,93.6,Machine Learning,Yes,98,Yes,14.8
+S103,7.2,75.3,72.0,Java,Yes,63,Yes,5.1
+S104,6.7,67.8,65.3,SQL,No,47,No,0
+S105,8.5,87.9,84.6,Python,Yes,82,Yes,7.5
+S106,7.8,82.3,79.0,SQL,Yes,75,Yes,6.2
+S107,6.1,58.6,56.4,R,No,35,No,0
+S108,8.7,89.8,87.4,Machine Learning,Yes,89,Yes,11.3
+S109,7.4,77.7,74.4,Java,Yes,64,Yes,5.2
+S110,6.5,65.2,62.8,Excel,No,41,No,0
+S111,8.2,85.5,83.2,Python,Yes,81,Yes,7.4
+S112,7.1,74.2,71.3,SQL,No,58,No,0
+S113,9.1,93.1,91.0,Machine Learning,Yes,94,Yes,13.1
+S114,6.8,69.3,66.5,Java,No,50,No,0
+S115,7.6,80.4,77.1,Python,Yes,74,Yes,6.5
+S116,8.3,86.1,83.7,SQL,Yes,80,Yes,6.2
+S117,6.4,63.3,60.6,Excel,No,40,No,0
+S118,8.9,90.8,89.1,Machine Learning,Yes,92,Yes,12.6
+S119,7.3,76.0,72.7,Java,Yes,63,Yes,5.1
+S120,6.6,66.7,64.0,R,No,45,No,0
+S121,8.6,88.7,86.3,Python,Yes,86,Yes,7.9
+S122,7.9,82.8,79.3,SQL,Yes,72,Yes,5.9
+S123,6.2,59.4,56.8,Excel,No,37,No,0
+S124,9.0,92.9,90.7,Machine Learning,Yes,95,Yes,13.6
+S125,7.5,78.5,75.2,Java,Yes,67,Yes,5.2
+S126,6.9,70.0,67.4,SQL,No,48,Yes,4.1
+S127,8.4,87.1,84.4,Python,Yes,83,Yes,7.6
+S128,7.0,73.0,70.3,R,No,54,No,0
+S129,8.8,90.3,87.8,Machine Learning,Yes,90,Yes,11.7
+S130,6.5,65.7,63.0,Java,No,43,No,0
+S131,7.7,81.3,78.0,SQL,Yes,73,Yes,5.9
+S132,8.1,84.0,81.5,Python,Yes,78,Yes,7.0
+S133,6.3,61.2,58.6,Excel,No,40,No,0
+S134,9.3,95.0,93.0,Machine Learning,Yes,97,Yes,14.5
+S135,7.2,75.6,72.4,Java,Yes,62,Yes,5.0
+S136,6.7,68.0,65.4,SQL,No,46,No,0
+S137,8.5,88.2,85.7,Python,Yes,84,Yes,7.7
+S138,7.8,82.6,79.2,SQL,Yes,74,Yes,6.1
+S139,6.1,58.0,55.7,R,No,34,No,0
+S140,8.7,90.2,87.7,Machine Learning,Yes,88,Yes,11.1
+S141,7.4,77.5,74.2,Java,Yes,64,Yes,5.1
+S142,6.5,65.0,62.5,Excel,No,42,No,0
+S143,8.2,85.8,83.4,Python,Yes,80,Yes,7.3
+S144,7.1,74.6,71.5,SQL,No,57,No,0
+S145,9.1,93.4,91.3,Machine Learning,Yes,96,Yes,13.9
+S146,6.8,69.5,66.8,Java,No,50,No,0
+S147,7.6,80.7,77.4,Python,Yes,75,Yes,6.6
+S148,8.3,86.4,84.0,SQL,Yes,81,Yes,6.4
+S149,6.4,62.7,60.2,Excel,No,39,No,0
+S150,8.9,91.3,89.4,Machine Learning,Yes,93,Yes,12.8
